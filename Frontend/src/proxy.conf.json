@@ -1,0 +1,9 @@
+// {
+//     "/api": {
+//       "target": "https://beta.myimpact.in:5400",
+//       "secure": false,
+//       "changeOrigin": true,
+//       "logLevel": "debug"
+//     }
+//   }
+  
